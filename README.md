@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m James
 
-I started my career deep in the stack as a **kernel and network protocol developer**, building core os features and network protocols. Over time, I became increasingly curious about how people *use* the software we create—not just how it works under the hood. That curiosity eventually led me into **application and cloud security**, and today I work as a **Product Manager focused on code security, DevSecOps, and developer experience**.
+I started my career first as a **network protocol developer**, which I also have my master degree in and then moved to a **kernel developer", building core os functionalities. Over time, I became increasingly curious static analyis tools and finding coding flaws while developing. That curiosity eventually led me into **application and cloud security**, and today I work at Microsoft as a **Product Manager focused on code security, DevSecOps, and developer experience**.
 
 ## 🔐 From Code to Security
 
